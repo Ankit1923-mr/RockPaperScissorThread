@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: white;
+    text-align:  center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15%;
+}
+.btns {
+    display: flex;
+    justify-content: center; 
+    gap: 20px;
+}
+button{
+    background-color: rgb(36, 34, 34);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    border: 2px solid white;  
+    cursor: pointer;
+    font-size:30px;
+    margin-bottom: 50px;
+}
